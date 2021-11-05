@@ -1,0 +1,7 @@
+{
+  "name": "com.testpackage",
+  "displayName": "My Test Package",
+  "version": "1.2.3",
+  "description": "This is an example package",
+  "unity": "2019.1"
+}
